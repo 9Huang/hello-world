@@ -1,5 +1,5 @@
-# hello-world
-my first repository
+# hello-World
+my repository
 
 
 Click the README.md file.
